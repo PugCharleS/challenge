@@ -1,6 +1,6 @@
 {
   "name": "challenge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDE Code Challenge",
   "main": "index.js",
   "scripts": {
