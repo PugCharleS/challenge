@@ -6,7 +6,7 @@ Hi! I'm **Carlos Solis**. If you want to use this code you just need to follow t
 2.  Enter to that directory with **"cd ./{name of the directory}"**
 3.  Type **git clone https://github.com/PugCharleS/challenge.git**
 4.  Enter to the directory that has created inside so **"cd ./challenge"**
-5.  In the terminal type the next command **"npm init"** this should download any library that is required to execute the code.
+5.  In the terminal type the next command **"npm i"** this should download any library that is required to execute the code.
 6.  In the command line enter node **./scripts/index.js** to execute the code
 7.  And you are good to go.
 
